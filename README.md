@@ -14,12 +14,6 @@ A standalone FastAPI application for managing products with MySQL as the backend
 
 ---
 
-## Project Structure
-
-
-
----
-
 ## Prerequisites
 
 - Python 3.11+  
